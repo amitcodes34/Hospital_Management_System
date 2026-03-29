@@ -13,7 +13,7 @@ Go to the project directory
   cd Hospital-Management-System
 ```
 
-Install dependencies
+Install dependencies if not install
 
 ```bash
   npm install
